@@ -13,6 +13,7 @@
     <modules>
         <module>calculator-service</module>
         <module>string-service</module>
+        <module>greeting-service</module>
     </modules>
 
     <properties>
